@@ -27,3 +27,4 @@ Preview the prototype.
 ![output](./static/img/Screenshot(191).jpg)
 
 ## RESULT:
+Thus UX design for company website is created
